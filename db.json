@@ -1,0 +1,26 @@
+{
+  "1Day": {
+    "totalSales": 12500,
+    "newLeads": 100,
+    "activeUsers": 500,
+    "pieData": [200, 50, 100],
+    "lineData": [50, 100, 150],
+    "labels": ["12 AM", "6 AM", "12 PM", "6 PM"]
+  },
+  "1Week": {
+    "totalSales": 45000,
+    "newLeads": 400,
+    "activeUsers": 2500,
+    "pieData": [400, 150, 200],
+    "lineData": [100, 200, 300, 400, 500, 600, 700],
+    "labels": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+  },
+  "1Month": {
+    "totalSales": 150000,
+    "newLeads": 1200,
+    "activeUsers": 10000,
+    "pieData": [1000, 400, 300],
+    "lineData": [200, 300, 500, 600, 700, 800, 900, 1000, 1200],
+    "labels": ["Week 1", "Week 2", "Week 3", "Week 4"]
+  }
+}
